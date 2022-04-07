@@ -1,0 +1,14 @@
+D:\Q3\n1q3\n1q3\bin\Debug\netcoreapp3.1\n1q3.exe
+D:\Q3\n1q3\n1q3\bin\Debug\netcoreapp3.1\n1q3.deps.json
+D:\Q3\n1q3\n1q3\bin\Debug\netcoreapp3.1\n1q3.runtimeconfig.json
+D:\Q3\n1q3\n1q3\bin\Debug\netcoreapp3.1\n1q3.runtimeconfig.dev.json
+D:\Q3\n1q3\n1q3\bin\Debug\netcoreapp3.1\n1q3.dll
+D:\Q3\n1q3\n1q3\bin\Debug\netcoreapp3.1\n1q3.pdb
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.AssemblyInfoInputs.cache
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.AssemblyInfo.cs
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.csproj.CoreCompileInputs.cache
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.dll
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.pdb
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.genruntimeconfig.cache
+D:\Q3\n1q3\n1q3\obj\Debug\netcoreapp3.1\n1q3.csproj.AssemblyReference.cache
